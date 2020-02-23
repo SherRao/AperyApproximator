@@ -22,7 +22,7 @@ def main():
 
         print(combo)
 
-    # Checks for a combination of coprimes
+    # Checks for a combination of coprime triplets.
     coprime = 0
     for combo in data:
         a = combo[0]
